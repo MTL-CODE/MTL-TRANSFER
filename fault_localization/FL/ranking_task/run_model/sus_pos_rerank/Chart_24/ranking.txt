@@ -1,0 +1,11 @@
+org.jfree.chart.renderer.GrayPaintScale@126 0.654231071472168
+org.jfree.chart.renderer.GrayPaintScale@128 0.6516045928001404
+org.jfree.chart.renderer.GrayPaintScale@124 0.6288310885429382
+org.jfree.chart.renderer.GrayPaintScale@125 0.6105306148529053
+org.jfree.chart.renderer.GrayPaintScale@72 0.5913354754447937
+org.jfree.chart.renderer.GrayPaintScale@85 0.5647790431976318
+org.jfree.chart.renderer.GrayPaintScale@73 0.5138010382652283
+org.jfree.chart.renderer.GrayPaintScale@89 0.4961571991443634
+org.jfree.chart.renderer.GrayPaintScale@90 0.4959763288497925
+org.jfree.chart.renderer.GrayPaintScale@84 0.4666047990322113
+org.jfree.chart.renderer.GrayPaintScale@91 0.4666047990322113
