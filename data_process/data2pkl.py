@@ -83,9 +83,9 @@ def work(faultType):
     print(f"test  num: {len(test['label'])}")
 
     writePath = faultTypePath
-    write_pkl(os.path.join(writePath, "train_python2.pkl"), train)
-    write_pkl(os.path.join(writePath, "valid__python2.pkl"), valid)
-    write_pkl(os.path.join(writePath, "test__python2.pkl"), test)
+    write_pkl(os.path.join(writePath, "train_python.pkl"), train)
+    write_pkl(os.path.join(writePath, "valid_python.pkl"), valid)
+    write_pkl(os.path.join(writePath, "test_python.pkl"), test)
 
 
 
